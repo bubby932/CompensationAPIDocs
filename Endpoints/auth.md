@@ -1,5 +1,5 @@
-# /auth/
-# https://cvrapi.loca.lt/auth/
+# /api/auth/
+# https://cvrapi.loca.lt/api/auth/
 
 Auth handles the authorization of users, whether on the web, while using the API, or while playing CVR.
 

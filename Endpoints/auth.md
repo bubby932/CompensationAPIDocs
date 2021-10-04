@@ -36,3 +36,12 @@ The server will respond with 403 Not Authorized and no token under the following
 -Your password was incorrect.
 
 The server will respond with 404 Not Found and no token if the username you inputted does not match an account in the database.
+
+# /auth/check
+## Type: POST
+## Authorization: Bearer + Access Token
+
+No JSON data is necessary to call this request.
+
+Server will respond with 403 Forbidden if the provided token is not valid.
+Server will respond with 200 OK if the provided token is valid.

@@ -39,7 +39,7 @@ The server will respond with 404 Not Found and no token if the username you inpu
 
 # /auth/check
 ## Type: POST
-## Authorization: Bearer + Access Token
+## Authorization: Bearer <InGameToken>
 
 No JSON data is necessary to call this request.
 

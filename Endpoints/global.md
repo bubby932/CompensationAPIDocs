@@ -1,5 +1,5 @@
 # /api/global
-# https://cvrapi.loca.lt/api/global
+# http://api.compensationvr.tk/api/global
 
 The Global endpoint is used to get global data, accessable by anyone. This information is synced between all users, and can be accessed without authorization necessary.
 

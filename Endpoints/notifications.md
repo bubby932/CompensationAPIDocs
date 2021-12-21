@@ -1,5 +1,5 @@
 # /api/notifications
-## https://cvrapi.loca.lt/api/notifications
+## http://api.compensationvr.tk/api/notifications
 The /notifications endpoint is used to get and send notifications in-game and on the CVR website to users.
 
 # /notifications/get

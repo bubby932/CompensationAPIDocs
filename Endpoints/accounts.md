@@ -1,5 +1,5 @@
 # /api/accounts/
-## https://cvrapi.loca.lt/api/accounts
+## http://api.compensationvr.tk/api/accounts
 
 The Accounts endpoints handles utility functions for getting and setting information about users.
 
